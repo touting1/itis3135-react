@@ -16,11 +16,19 @@ function Header() {
             </nav>
 
             <nav className="secondary-nav">
-                <a href="YOUR-ORIGINAL-SITE-URL">Crappy Site</a>
+                <a
+                    href="https://webpages.charlotte.edu/touting1/itis3135/stuff/mVnytrain%2065$$.htm"
+                >
+                    Crappy Site
+                </a>
                 {" | "}
-                <a href="YOUR-ORIGINAL-SITE-URL">Hobby</a>
+                <a href="https://webpages.charlotte.edu/touting1/itis3135/hobby/">
+                    Hobby
+                </a>
                 {" | "}
-                <a href="YOUR-ORIGINAL-SITE-URL">Mascot Company</a>
+                <a href="https://webpages.charlotte.edu/touting1/itis3135/tenacious-octopus-laundry/">
+                    Mascot Company
+                </a>
             </nav>
         </header>
     );
