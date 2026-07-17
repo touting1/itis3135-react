@@ -26,7 +26,7 @@ function Header() {
                     Hobby
                 </a>
                 {" | "}
-                <a href="https://webpages.charlotte.edu/touting1/itis3135/tenacious-octopus-laundry/">
+                <a href="https://webpages.charlotte.edu/touting1/itis3135/tenaciousoctopus/">
                     Mascot Company
                 </a>
             </nav>
